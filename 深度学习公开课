@@ -1,0 +1,259 @@
+人工智能免费公开课一网打尽！14个类别、230门课程，GitHub标星6000+
+2019-10-19 13:07:38    创事记 微博 作者：    我有话说(0人参与)
+ 
+原标题：人工智能免费公开课一网打尽！14个类别、230门课程，GitHub标星6000+ 来源：量子位
+
+关注前沿科技 量子位
+
+轻沉 发自 浅度寺 
+量子位 出品 | 公众号 QbitAI
+Read enough so you start developing intuitions and trust intuitions and go for it!通过大量阅读来培养直觉，相信自己的直觉并大胆实践！—— Geoffrey Hinton
+要说这两年最火的机器学习课程，当属吴恩达的Machine Learning。
+
+这原本是吴恩达在斯坦福大学开授的课程，课程视频在网络上受到了学习者的广泛好评，后来还推出了专门的网课。
+
+
+
+△Coursera平台上的Machine Learning课程
+
+现在越来越多的人选择通过观看视频课程的方式来学习知识，一方面有了教师的引导会让艰涩的内容更容易理解，另一方面平时通勤、等待时的细碎时间也可以得到充分利用。
+
+深度学习如此火热的今天，也有不少人通过课程视频来学习各个领域的知识。
+
+虽然已经有不少世界知名大学放出了学校授课的录像或讲座的视频，来造福全球对深度学习感兴趣的学习者们。
+
+但去哪学，也成了摆在大家面前的难题。
+
+今天要介绍的这个Github仓库 Deep Learning Drizzle就是一个深度学习相关课程/讲座视频的大合集，其中不乏学界知名大牛的亲授课程。
+
+目前该项目已经在Github收获了6000+星，Fork数也超过1.4K。
+
+仓库维护者整理了14个类目共计232门视频课程，并且这个数字还在不断增加。其中包括：
+
+Deep Neural Networks（深度神经网络），43门
+
+Machine Learning Fundamentals（机器学习基础），12门
+
+Optimization for Machine Learning（机器学习优化方法），12门
+
+General Machine Learning（通用机器学习），39门
+
+Reinforcement Learning（强化学习），14门
+
+Bayesian Deep Learning（贝叶斯深度学习），5门
+
+Graph Neural Networks（图神经网络），9门
+
+Probabilistic Graphical Models（概率图模型），5门
+
+Natural Language Processing（自然语言处理），10门
+
+Automatic Speech Recognition（语音识别），5门
+
+Modern Computer Vision（现代计算机视觉），25门
+
+Boot Camps or Summer Schools（夏令营与暑期学校讲座），44门
+
+Medical Imaging（医学影像），5门
+
+Bird’s-eye view of Artificial Intelligence（人工智能概览），4门
+
+
+
+△目前仓库中所有课程列表
+
+下面我们简单介绍一下每类课程覆盖的内容，并推荐其中颇负盛名的好课。
+
+Deep Neural Networks 深度神经网络
+
+主要涉及神经网络的工作原理及基本的应用。
+
+课程推荐
+
+1、Neural Networks for Machine Learning
+
+Geoffrey Hinton，University of Toronto，2012/2014
+
+
+
+△多伦多大学教授Geoffrey Hinton
+
+看到Hinton这个名字任何人都难免会虎躯一颤——深度学习奠基人之一，2019年图灵奖获得者。
+
+2、CS231n: CNNs for Visual Recognition
+
+Justin Johnson，Stanford University，2015-2017
+
+
+
+△斯坦福大学教授，华人学者李飞飞
+
+同样是这两年网络上的爆款课程，华人学者李飞飞的团队出品。每年的课程内容都会根据最新的研究成果更新，是计算机视觉很好的入门课程。
+
+3.CS320: Deep Learning
+
+Andrew Ng，Stanford University，2018
+
+
+
+△前斯坦福大学教授，华人学者吴恩达
+
+华人学者吴恩达亲自讲授的深度学习课程，内容全面的深度学习宝典，现在已经有了专门的在线课。
+
+Machine Learning Fundamentals 机器学习基础
+
+要想深入理解机器学习原理，数学知识必不可少。本类目包括了线性代数、概率与统计、微积分、信息论等基础数学课程。
+
+课程推荐：
+
+Linear Algebra
+
+Gilbert Strang，MIT
+
+Optimization for Machine Learning 机器学习优化方法
+
+优化方法是机器学习算法的灵魂，本类目以优化为主题，包含了凸优化课程和针对机器学习的优化理论课程。
+
+课程推荐
+
+1、Convex Optimization
+
+Stephen Boyd, Stanford University
+
+
+
+△Boyd编写的凸优化教材中文版封面
+
+Stephen Boyd编写的《凸优化》是中国许多高校的凸优化课程教材，现在有机会听到作者本人授课了！
+
+2、Optimization
+
+Geoff Gordon & Ryan Tibshirani, CMU
+
+3、Convex Optimization
+
+Ryan Tibshirani, CMU
+
+4、Algorithmic Aspects of Machine Learning / Advanced Algorithms
+
+Ankur Moitra, MIT
+
+General Machine Learning 通用机器学习
+
+本类目主要讲授机器学习理论、统计机器学习方法等内容。
+
+课程推荐
+
+CS229: Machine Learning
+
+Andrew Ng, Stanford University
+
+
+
+△吴恩达在斯坦福大学主讲的Machine Learning课程
+
+吴恩达主讲的机器学习课程，深入讲解了各种常用的统计机器学习模型，可谓经典中的经典。
+
+Reinforcement Learning 强化学习
+
+本类目主要介绍强化学习基础及进阶技术。大家熟知的阿法狗（AlphaGo）和各种游戏AI都是强化学习的产物。
+
+课程推荐
+
+1、Introduction to Reinforcement Learning
+
+David Silver, DeepMind
+
+
+
+△AlphaGo与李世石的人机大战
+
+Deepmind公司可谓在强化学习领域苦心耕耘多年，AlphaGo、AlphaZero、德州扑克AI、星际争霸AI等都出自他们之手。快来看看Deepmind研究员David Silver如何阐释强化学习。
+
+2、Deep Reinforcement Learning
+
+Sergey Levine, UC Berkeley
+
+3、CS234: Reinforcement Learning
+
+Emma Brunskill, Stanford University
+
+Bayesian Deep Learning 贝叶斯深度学习
+
+主要讲授基于贝叶斯网络的深度学习方法。
+
+课程推荐
+
+Deep Learning and Bayesian Methods
+
+Lots of Legends, HSE Moscow
+
+Graph Neural Networks 图神经网络
+
+近几年对于图神经网络的研究越来越多，图神经网络可以有效地处理想社交网络这样的图数据，是一个热门的研究方向。
+
+此部分还包含了基于三维几何的深度学习内容，3D视觉同样是近几年开始被广泛研究的课题。
+
+由于这些方向兴起时间不长，所以基本以workshop和讲座为主。
+
+Probabilistic Graphical Models 概率图模型
+
+概率图模型在研究中有着广泛的应用，如知名的隐马尔科夫模型（HMM）、条件随机场（CRF）等都属于概率图模型。同时概率图模型也是图神经网络的基础。
+
+推荐课程
+
+Probabilistic Graphical Models
+
+Eric Xing, CMU
+
+华人教授邢波主讲的课程，邢波教授本人专攻机器学习、计算生物学等方向。
+
+Natural Language Processing 自然语言处理
+
+本部分主要介绍计算语言学以及基于深度学习的自然语言处理（NLP）。
+
+推荐课程
+
+1、Neural Networks for Natural Language Processing
+
+Graham Neubig, CMU
+
+2、Natural Language Processing with Deep Learning
+
+Abigail See, Chris Manning, Richard Socher, Stanford University
+
+Automatic Speech Recognition 语音识别
+
+主要讲授如何应用深度学习技术进行语音识别。
+
+Modern Computer Vision 现代计算机视觉
+
+所谓现代计算机视觉，其实包括了传统方法和基于深度学习的方法两部分。
+
+这类课程中有对数字图像处理、计算机视觉领域传统方法的讲解，也有深度学习在摄影、视频处理、机器人等方面的研究。
+
+推荐课程
+
+1、Convolutional Neural Networks
+
+Andrew Ng, Stanford University
+
+2、CS205A: Mathematical Methods for Robotics, Vision and Graphics
+
+Justin Solomon, Stanford University
+
+Boot Camps or Summer Schools 夏令营与暑期学校
+
+这部分主要是知名大学夏令营、暑期学校中的专题讲座，内容通常比较前沿，值得一看。
+
+Medical Imaging 医学影像
+
+主要讲授如何运用机器学习方法进行医学影像分析，主要是暑期学校课程。
+
+Bird’s-eye view of Artificial Intelligence 人工智能概览
+
+这部分主要是大牛的讲座和讲话，探讨了人工智能发展方向，以及人工智能与认知、情感、道德、伦理、社会等方面的关系，是人工智能在技术之上更高层次的探究，可以帮助你对人工智能有更深的理解。
+
+最后，附上项目传送门：
+
+https://github.com/kmario23/deep-learning-drizzle
